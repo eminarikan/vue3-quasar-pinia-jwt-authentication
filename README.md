@@ -2,6 +2,9 @@
 
 A Starter Project
 
+Credit to [@cornflourblue](https://github.com/cornflourblue) for [ vue-3-pinia-jwt-authentication-example
+](https://github.com/cornflourblue/vue-3-pinia-jwt-authentication-example)
+
 ## Install the dependencies
 ```bash
 yarn
